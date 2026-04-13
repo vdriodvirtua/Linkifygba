@@ -1,2 +1,16 @@
 # Google App Engine generated folder
 appengine-generated/
+
+# Credentials
+.env
+*.key
+node_modules/
+
+# Android build files
+.gradle/
+/build/
+*.apk
+
+# Sensitive IDE files
+.idea/
+.vscode/
